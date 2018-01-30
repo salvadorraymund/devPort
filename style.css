@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-	color: black;
+	color: gray;
 	font-size: 50px;
 	font-weight: normal;
 	font-family: 'Ubuntu', sans-serif;
@@ -16,14 +16,14 @@ h1 {
 }
 
 h2 {
-	color; green;
+	color: gray;
 	font-size: 18px
 	margin-top:0;
 }
 
 .bio {
 	width: 500px;
-	color: black;
+	color: gray;
 	font-size: 14px;
 	margin-left: auto;
 	margin-right: auto;
